@@ -1,0 +1,48 @@
+.items-list{
+    &__bar{
+        display: flex;
+        height: auto;
+        width: auto;
+        align-items: center;
+        background-color: rgb(231, 231, 231);
+        margin-bottom: 10px;
+        border-radius: 10px;
+    }
+
+    &__input{
+        display: flex;
+        border: none;
+        height: 20px;
+        margin: 10px;
+        padding: 5px;
+        outline: none;
+        border-radius: 5px;
+    }
+
+    &__select-title{
+        display: flex;
+        width: 110px;
+        font-size: 15px;
+        text-align: center;
+        margin: 5px;
+    }
+    &__select{
+        display: flex;
+        color: rgb(133, 133, 133);
+        text-align: left;
+        font-size: 15px;
+        border: none;
+        height: 30px;
+        padding: 5px;
+        outline: none;
+        border-radius: 5px;
+        margin-right: 10px;
+    }
+    
+    &__element{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin: 0 auto;
+    }
+}

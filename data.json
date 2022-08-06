@@ -1,0 +1,131 @@
+{
+    "drinks":[
+        {
+            "id": 1,
+            "name": "напиток 1",
+            "price": 50,
+            "category": "drinks"
+        },
+        {
+            "id": 2,
+            "name": "напиток 2",
+            "price": 100,
+            "category": "drinks"
+        },
+        {
+            "id": 3,
+            "name": "напиток 3",
+            "price": 150,
+            "category": "drinks"
+        },
+        {
+            "id": 4,
+            "name": "напиток 4",
+            "price": 200,
+            "category": "drinks"
+        },
+        {
+            "id": 5,
+            "name": "напиток 5",
+            "price": 250,
+            "category": "drinks"
+        }
+    ],
+    "dishes":[
+        {
+            "id": 6,
+            "name": "блюдо 1",
+            "price": 100,
+            "category": "dishes"
+        },
+        {
+            "id": 7,
+            "name": "блюдо 2",
+            "price": 200,
+            "category": "dishes"
+        },
+        {
+            "id": 8,
+            "name": "блюдо 3",
+            "price": 300,
+            "category": "dishes"
+        },
+        {
+            "id": 9,
+            "name": "блюдо 4",
+            "price": 400,
+            "category": "dishes"
+        },
+        {
+            "id": 10,
+            "name": "блюдо 5",
+            "price": 500,
+            "category": "dishes"
+        }
+    ],
+    "sauces":[
+        {
+            "id": 11,
+            "name": "соус 1",
+            "price": 10,
+            "category": "sauces"
+        },
+        {
+            "id": 12,
+            "name": "соус 2",
+            "price": 20,
+            "category": "sauces"
+        },
+        {
+            "id": 13,
+            "name": "соус 3",
+            "price": 30,
+            "category": "sauces"
+        },
+        {
+            "id": 14,
+            "name": "соус 4",
+            "price": 40,
+            "category": "sauces"
+        },
+        {
+            "id": 15,
+            "name": "соус 5",
+            "price": 50,
+            "category": "sauces"
+        }
+    ],
+    "pizzas":[
+        {
+            "id": 16,
+            "name": "пицца 1",
+            "price": 200,
+            "category": "pizzas"
+        },
+        {
+            "id": 17,
+            "name": "пицца 2",
+            "price": 400,
+            "category": "pizzas"
+        },
+        {
+            "id": 18,
+            "name": "пицца 3",
+            "price": 600,
+            "category": "pizzas"
+        },
+        {
+            "id": 19,
+            "name": "пицца 4",
+            "price": 800,
+            "category": "pizzas"
+        },
+        {
+            "id": 20,
+            "name": "пицца 5",
+            "price": 1000,
+            "category": "pizzas"
+        }
+    ]
+
+}

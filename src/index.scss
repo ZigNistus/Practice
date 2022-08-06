@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/dist/fonts/Montserrat-Medium.ttf');
+  font-style: normal;
+  font-weight: normal;
+}
+
+body {
+  display: block;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat';
+}
+
+::-webkit-scrollbar {
+   width: 0;
+ }
